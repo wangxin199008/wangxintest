@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Users/Administrator/IdeaProjects/selenium_Dome" enabled="true">
+        <classes>
+
+            <class name="com.testbg.testChickBaidu">
+                <methods>
+                    <include name="sedkeyTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

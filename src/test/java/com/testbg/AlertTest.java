@@ -29,6 +29,7 @@ public class AlertTest {
     public  void JSTest() throws InterruptedException {
         driver.get("https://www.baidu.com");
         JavascriptExecutor js = (JavascriptExecutor) driver;
+        System.out.println("这个是一个Jenkins测试");
         js.executeScript("document.getElementById(\"kw\").setAttribute(\"value\",\"1231231232\");");
         Thread.sleep(4000);
     }
