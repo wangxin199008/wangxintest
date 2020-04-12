@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="9876" started-at="2020-04-12T17:59:10 CST" finished-at="2020-04-12T17:59:19 CST">
+    <groups>
+    </groups>
+    <test name="D:/Users/Administrator/IdeaProjects/selenium_Dome" duration-ms="9876" started-at="2020-04-12T17:59:10 CST" finished-at="2020-04-12T17:59:19 CST">
+      <class name="com.testbg.testChickBaidu">
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.testbg.testChickBaidu@a74868d]" name="openChrome" is-config="true" duration-ms="3279" started-at="2020-04-12T17:59:10 CST" finished-at="2020-04-12T17:59:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="sedkeyTest()[pri:0, instance:com.testbg.testChickBaidu@a74868d]" name="sedkeyTest" duration-ms="5620" started-at="2020-04-12T17:59:13 CST" finished-at="2020-04-12T17:59:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sedkeyTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testbg.testChickBaidu@a74868d]" name="close" is-config="true" duration-ms="947" started-at="2020-04-12T17:59:19 CST" finished-at="2020-04-12T17:59:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testbg.testChickBaidu -->
+    </test> <!-- D:/Users/Administrator/IdeaProjects/selenium_Dome -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

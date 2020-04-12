@@ -41,7 +41,7 @@
     </dependencies>
     <build>
         <plugins>
-            <!--编辑插件-->
+            <!--编译插件-->
            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                <artifactId>maven-compiler-plugin</artifactId>
@@ -50,7 +50,6 @@
                    <source>1.8</source>
                    <target>1.8</target>
                    <encoding>UTF-8</encoding>
-                   <compilerArgument>-verbose -bootclasspath ${java.home}\lib\rt.jar</compilerArgument>
                </configuration>
 
            </plugin>

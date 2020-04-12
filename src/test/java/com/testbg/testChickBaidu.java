@@ -1,6 +1,5 @@
 package com.testbg;
 
-import com.sun.org.apache.xml.internal.resolver.helpers.FileURL;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

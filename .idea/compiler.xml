@@ -13,9 +13,4 @@
       <module name="selenium" target="1.8" />
     </bytecodeTargetLevel>
   </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="selenium" options="&quot;-verbose -bootclasspath C:/Program Files/Java/jdk1.8.0_51/jre\lib\rt.jar&quot;" />
-    </option>
-  </component>
 </project>
